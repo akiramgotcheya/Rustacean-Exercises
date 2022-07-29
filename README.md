@@ -1,5 +1,5 @@
 # Rustacean-Exercises
 
-Note: This repo contains only solutions to exercises available on https://replit.com/team/Narra8ive
+Note: This repo contains solutions to Rust coding challenges available on various websites.
+      Questions are mentioned in comments.
 
-Please visit the website to view the original questions.

@@ -1,4 +1,5 @@
-# Question 1
+// Question 1
+
 // Topic: Basic arithmetic
 //
 // Program requirements:
